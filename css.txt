@@ -1,0 +1,22 @@
+////
+
+Inline CSS --> Highest prioirty 
+Style Tag--> medium prioirty 
+Stylesheet--> low prioirty 
+
+All of the property of inline will be applied, afterward style tag then stylesheet property will be applied.
+
+
+//HTML is about Tag
+        CSS is about properties like height, weight,colors
+
+///
+Height should be in pixel
+Width should be in %age so it could be adjust per page size
+
+/////
+tagname > 
+Class name > To target multiple elements using same property class tag is used
+id > to target something unique 
+
+ID has highest priorty than class

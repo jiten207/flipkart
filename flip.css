@@ -1,0 +1,115 @@
+.heading{
+    background-color: blue;
+    border: 0.1px solid blue;
+    height: 60px;
+    width: 100%;
+    display: inline-block;
+   
+}
+.logo{
+    height: 58px;
+    float:left;
+}
+#quicksearch{
+    margin-top: 4px;
+    margin-left: 1%;
+    /* background-color: white; */
+    /* border: 1px solid black; */
+    text-align: center;
+    height: 50px;
+    width: 45%;
+    
+    /* background-size: 10%, 50px; */
+}
+.login{
+    border: 1px solid black;
+    margin-top: -48px;
+    margin-left: 54%;
+    background-color: white;
+    color: blue;
+    height: 42px;
+    width: 10%;
+    text-align: center;
+    /* display: inline-block; */
+}
+.seller{
+    color: white;
+    margin-top: -35px;
+    margin-left: 66%;
+    font-size: 20px;
+    height: 10px;
+    width: 20%;
+}
+.more{
+    color: white;
+    margin-top: -12px;
+    margin-left: 80%;
+    font-size: 20px;
+    height: 10px;
+    /* width: 15%; */
+}
+.cart{
+    height: 10px;
+    width: 25%;
+}
+.scart{
+    margin-top: -8px;
+    margin-left: 90%;
+    font-size: 17px;
+    color: white;
+    font-weight: bold;
+}
+.bar{
+    height:60px;
+    width:100%;
+    float: left;
+    /* margin-top: 1%; */
+    /* margin-left: 8%; */
+    /* margin: 2%; */
+    /* display: inline-block; */
+}
+.pics{
+    height: 58px;
+    width: 10%;
+    float: left;
+    display: inline-block;
+    /* margin-left: %; */
+    /* margin: ; */
+    /* float: left; */
+    /*  */
+}
+.module{
+    height: 40px;
+    width: 55%;
+}
+.simage{
+    border: 0.2px;
+    background-color: rgb(201, 222, 228);
+   margin-top:6%;
+    height: 320px;
+    /* float: left; */
+    /* width:max-content; */
+    
+}
+.electronics{
+    float: left;
+    /* margin-top: 3%; */
+    margin:1%;
+    height: 320px;
+    width: 100%;
+    
+    
+}
+.gadget{
+    display: inline-block;
+    margin: 0.7%;
+    width: 15%;
+
+}
+.ipic{
+    height: 200px;
+    width: 100%;
+}
+.stext{
+    text-align: center;
+}
